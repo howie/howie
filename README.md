@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am [Howie](https://github.com/howie)
 
 <!--
 **howie/howie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+<a href="https://www.linkedin.com/in/howieyu/">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=howie&show_icons=true&theme=react" alt="Howie's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howie&layout=compact&theme=react" alt="Howie's top languages" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=howie" alt="Howie's top waka time last year" />
+</a>
+
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
